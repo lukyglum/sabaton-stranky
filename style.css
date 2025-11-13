@@ -1,0 +1,15 @@
+
+/* style.css */
+body { background: #0d0d0d; color: #fff; font-family: Arial, sans-serif; margin:0; padding:0; text-align:center; }
+header { background:#111; padding:15px; }
+h1 { color:#f0c040; margin:0; }
+nav ul { list-style:none; padding:0; margin:10px 0; }
+nav ul li { display:inline-block; margin:0 8px; }
+a { color:#f0c040; text-decoration:none; font-weight:bold; }
+a:hover { text-decoration: underline; }
+main { padding:20px; }
+p { width:80%; margin:12px auto; text-align:justify; line-height:1.6; }
+img { max-width:90%; height:auto; border:2px solid #f0c040; border-radius:6px; margin:10px 0; }
+ul.simple { width:60%; margin:10px auto 20px auto; text-align:left; }
+iframe { max-width:90%; border:3px solid #f0c040; margin:10px 0; }
+footer { background:#111; padding:12px; margin-top:20px; color:#ccc; }
